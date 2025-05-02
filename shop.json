@@ -1,0 +1,291 @@
+[
+  {
+    "id": 1,
+    "name": " Black Stretchy Gown",
+    "price": 99.8,
+    "image": "asset/women/cloth black front.png"
+  },
+  {
+    "id": 2,
+    "name": "Body Hug – Black and white",
+    "price": 99.8,
+    "image": "asset/men/black_bodyhug_front-removebg-preview.png"
+  },
+  {
+    "id": 3,
+    "name": " Esprit Ruffle Shirt",
+    "price": 16.64,
+    "image": "asset/product-01.jpg"
+  },
+
+  {
+    "id": 4,
+    "name": "Black Lether belt ",
+    "price": 29.8,
+    "image": "asset/asseccorise/1__5_-removebg-preview.png"
+  },
+  {
+    "id": 5,
+    "name": "Body Hug – Orange",
+    "price": 99.8,
+    "image": "asset/men/orange_bodyhug_front-removebg-preview.png"
+  },
+  {
+    "id": 6,
+    "name": " LASGIDI FEMALE JERSEY – ORANGE",
+    "price": 99.8,
+    "image": "asset/women/2.png"
+  },
+  {
+    "id": 7,
+    "name": "  Black Skull head",
+    "price": 99.8,
+    "image": "asset/asseccorise/1__6_-removebg-preview.png"
+  },
+  {
+    "id": 8,
+    "name": " Herschel supply",
+    "price": 35.31,
+    "image": "asset/product-02.jpg"
+  },
+  {
+    "id": 9,
+    "name": " Black Stretchy head wormer",
+    "price": 99.8,
+    "image": "asset/asseccorise/1__1_-removebg-preview.png"
+  },
+  {
+    "id": 10,
+    "name": " G-shock allround light watch",
+    "price": 99.8,
+    "image": "asset/asseccorise/1__2_-removebg-preview.png"
+  },
+  {
+    "id": 11,
+    "name": "24 karat Gold engagement ring",
+    "price": 99.8,
+    "image": "asset/asseccorise/1__3_-removebg-preview.png"
+  },
+  {
+    "id": 12,
+    "name": "silver, Diamond ring",
+    "price": 99.8,
+    "image": "asset/asseccorise/1__4_-removebg-preview.png"
+  },
+  {
+    "id": 13,
+    "name": " Black Lether balt",
+    "price": 99.8,
+    "image": "asset/asseccorise/1__5_-removebg-preview.png"
+  },
+  {
+    "id": 14,
+    "name": "  Black Skull head",
+    "price": 99.8,
+    "image": "asset/asseccorise/1__6_-removebg-preview.png"
+  },
+  {
+    "id": 15,
+    "name": " Black Stretchy head wormer",
+    "price": 200,
+    "image": "asset/asseccorise/1-removebg-preview.png"
+  },
+  {
+    "id": 16,
+    "name": " Half Cap",
+    "price": 200,
+    "image": "asset/asseccorise/2-removebg-preview.png"
+  },
+  {
+    "id": 17,
+    "name": " Black Stretchy Gown",
+    "price": 99.8,
+    "image": "asset/women/cloth black front.png"
+  },
+  {
+    "id": 18,
+    "name": " Orange Stretchy Gown",
+    "price": 99.8,
+    "image": "asset/women/or.png"
+  },
+  {
+    "id": 19,
+    "name": "Green Stretchy Gown",
+    "price": 99.8,
+    "image": "asset/women/green front.png"
+  },
+  {
+    "id": 20,
+    "name": "Body Hug – Black and white",
+    "price": 99.8,
+    "image": "asset/men/black_bodyhug_front-removebg-preview.png"
+  },
+  {
+    "id": 21,
+    "name": " Body Hug – Red",
+    "price": 99.8,
+    "image": "asset/men/red_bodyhug_front-removebg-preview.png"
+  },
+  {
+    "id": 22,
+    "name": "Body Hug – Orange",
+    "price": 99.8,
+    "image": "asset/men/orange_bodyhug_front-removebg-preview.png"
+  },
+  {
+    "id": 23,
+    "name": "Body Hug – White",
+    "price": 99.8,
+    "image": "asset/men/white bodyhug front"
+  },
+  {
+    "id": 24,
+    "name": "Fleece Hoodie Pants – Pink",
+    "price": 99.8,
+    "image": "asset/men/pink shorts.png"
+  },
+  {
+    "id": 25,
+    "name": " Fleece Hoodie Top – Pink",
+    "price": 99.8,
+    "image": "asset/men/pinkhood back.png"
+  },
+  {
+    "id": 26,
+    "name": " Fleece Hoodie Top – Orange",
+    "price": 200,
+    "image": "asset/men/orange hoody back.png"
+  },
+  {
+    "id": 27,
+    "name": " Fleece Hoodie Top and pants– brown",
+    "price": 200,
+    "image": "asset/men/brown"
+  },
+  {
+    "id": 28,
+    "name": "LASGIDI FEMALE JERSEY – RED",
+    "price": 99.8,
+    "image": "asset/women/red crop top back.jpg"
+  },
+  {
+    "id": 29,
+    "name": " LASGIDI FEMALE JERSEY – ORANGE",
+    "price": 99.8,
+    "image": "asset/women/2.png"
+  },
+  {
+    "id": 30,
+    "name": "  Skirt Green",
+    "price": 99.8,
+    "image": "asset/women/3.png"
+  },
+  {
+    "id": 31,
+    "name": " Jean Female Jacket Pink",
+    "price": 200,
+    "image": "asset/women/pink jacket front"
+  },
+  {
+    "id": 32,
+    "name": "  Ripped Bumshort Green",
+    "price": 200,
+    "image": "asset/women/black crazy shorts.png"
+  },
+  {
+    "id": 33,
+    "name": " Esprit Ruffle Shirt",
+    "price": 16.64,
+    "image": "asset/product-01.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Herschel supply ",
+    "price": 35.31,
+    "image": "asset/product-02.jpg"
+  },
+  {
+    "id": 35,
+    "name": " Only Check Trouser",
+    "price": 25.5,
+    "image": "asset/product-03.jpg"
+  },
+  {
+    "id": 36,
+    "name": " Classic Trench Coat",
+    "price": 75.0,
+    "image": "asset/product-04.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Front Pocket Jumper ",
+    "price": 34.75,
+    "image": "asset/product-05.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Vintage Inspired Classic  ",
+    "price": 93.2,
+    "image": "asset/product-06.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Shirt in Stretch Cotton ",
+    "price": 52.66,
+    "image": "asset/product-07.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Pieces Metallic Printed ",
+    "price": 18.96,
+    "image": "asset/product-08.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Front Pocket Jumper ",
+    "price": 34.75,
+    "image": "asset/product-09.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Vintage Inspired Classic  ",
+    "price": 93.2,
+    "image": "asset/product-10.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Shirt in Stretch Cotton ",
+    "price": 52.66,
+    "image": "asset/product-11.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Pieces Metallic Printed ",
+    "price": 18.96,
+    "image": "asset/product-12.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Front Pocket Jumper ",
+    "price": 34.75,
+    "image": "asset/product-13.jpg"
+  },
+  {
+    "id": 46,
+    "name": " Vintage Inspired Classic",
+    "price": 93.2,
+    "image": "asset/product-14.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Shirt in Stretch Cotton ",
+    "price": 52.66,
+    "image": "asset/product-15.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Pieces Metallic Printed ",
+    "price": 18.96,
+    "image": "asset/product-16.jpg"
+  }
+]

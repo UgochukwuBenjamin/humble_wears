@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="asset/logo.jpg" type="HA" />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+    />
+    <title>Humble Wears</title>
+  </head>
+  <body>
+ 
+    <!-- nav bar starts -->
+    <nav>
+      <div class="nav_logo">
+        <div class="logo">
+          <a href="index.html"><h1>Humble Wears</h1></a>
+        </div>
+      </div>
+      <div class="menu-toggle" id="menu-toggle">&#9776;</div>
+      <ul class="nav-links" id="nav-links">
+        <li><a href="shop.html">Shop</a></li>
+        <!-- <li><a href="#">About</li></a> -->
+        <li><a href="contact.html">Contact</li></a>
+      </ul>
+    </nav>
+      <!-- Scroll to Top Button -->
+      <button id="scrollToTopBtn" title="Go to top">↑</button>
+
+      <script>
+          // Get the button
+          const scrollToTopBtn = document.getElementById("scrollToTopBtn");
+  
+          // Show the button when the user scrolls down 20px from the top
+          window.onscroll = function () {
+              if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                  scrollToTopBtn.style.display = "block";
+              } else {
+                  scrollToTopBtn.style.display = "none";
+              }
+          };
+  
+          // Scroll to the top when the button is clicked
+          scrollToTopBtn.onclick = function () {
+              window.scrollTo({ top: 0, behavior: "smooth" });
+          };
+      </script>
+    <div class="we">
+    <div class="container">
+      <div class="content">
+        <div class="left-side">
+          <div class="address details">
+            <i class="fas fa-map-marker-alt"></i>
+            <div class="topic">Address</div>
+            <div class="text-one">Nigeria,Lagos</div>
+            <div class="text-two">4/6 fayemi Street</div>
+          </div>
+          <div class="phone details">
+            <i class="fas fa-phone"></i>
+            <div class="topic">Phone</div>
+            <div class="text-one">+2349 1116 33099</div>
+            <div class="text-two">+2348 03350 15587</div>
+          </div>
+          <div class="email details">
+            <i class="fas fa-envelope"></i>
+            <div class="topic">Email</div>
+            <div class="text-one">chizzyugochukwu896@gmail.com</div>
+            <div class="text-two">ugochukwuchinonso19@gmail.com</div>
+          </div>
+        </div>
+     <div class="right-side">
+          <div class="topic-text">Send us a message</div>
+          <p>
+            If you have any type of compliant or compliment to make you can send
+            a message to us. It's our pleasure to help you.
+          </p>
+        <form action="#">
+          <div class="input-box">
+            <input type="text" placeholder="Enter your name" required/>
+          </div>
+          <div class="input-box">
+            <input type="text" placeholder="Enter your email" required />
+          </div>
+          <div class="input-box message-box">
+            <textarea></textarea>
+          </div>
+          <div class="button">
+            <input type="button" value="Send Now" required/>
+          </div>
+        </form>
+    </div>
+      </div>
+    </div>
+  </div>
+   <!-- footer starts -->
+   <footer id="footer">
+    <div class="end">
+       <div class="item1">
+           <h3>CONTACT US</h3>
+           <br>
+           <p>
+               Visit us at:
+               4/6 Fayemi Street off Chemist Busstop Idimu, Lagos
+               <br>
+               <br>
+               Phone: +234 911-163-3099
+               <br>
+               <br>
+               Email: info@humblewears.com
+               <br>
+               <br>
+               We’d love to hear from you! Feel free to reach out for reservations, inquiries, or feedback.
+
+           </p>
+       </div>
+       <div class="item2">
+           <h3>LATEST TWITTER</h3>
+           <br>
+           <p>
+               Stay connected with us! Follow us on Twitter for the latest updates, special offers, and behind-the-scenes moments. Join the conversation: @PATO PLACE
+           </p>
+       </div>
+       <div class="item3">
+           <h3>GALLERY</h3>
+           <br>
+           <p>
+               Explore our beautiful dining ambiance, delicious dishes, and special moments shared by our guests. View our full gallery and get inspired for your next visit!
+           </p>
+       </div>
+    </div>
+    
+       <div class="copywrite">
+           &COPY; 2025 Humble by Humble||TECH!
+       </div>
+   </footer>
+   <!-- footer ends -->
+  </body>
+  <script>
+    const toggle = document.getElementById('menu-toggle');
+    const navLinks = document.getElementById('nav-links');
+
+    toggle.addEventListener('click', () => {
+      navLinks.classList.toggle('active');
+    });
+  </script>
+</html>

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="asset/logo.jpg" type="HA" />
+    <link rel="stylesheet" href="style.css" >
+    <title>Humble Wears</title>
+  </head>
+  <body>
+    <!-- nav bar starts -->
+  
+          <nav>
+            <div class="nav_logo">
+              <div class="logo">
+                <a href="index.html"><h1>Humble Wears</h1></a>
+              </div>
+            </div>
+            <div class="menu-toggle" id="menu-toggle">&#9776;</div>
+            <ul class="nav-links" id="nav-links">
+              <li><a href="shop.html">Shop</a></li>
+              <!-- <li><a href="#">About</li></a> -->
+              <li><a href="contact.html">Contact</li></a>
+            </ul>
+          </nav>
+
+            <!-- Scroll to Top Button -->
+    <button id="scrollToTopBtn" title="Go to top">↑</button>
+
+    <script>
+        // Get the button
+        const scrollToTopBtn = document.getElementById("scrollToTopBtn");
+
+        // Show the button when the user scrolls down 20px from the top
+        window.onscroll = function () {
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                scrollToTopBtn.style.display = "block";
+            } else {
+                scrollToTopBtn.style.display = "none";
+            }
+        };
+
+        // Scroll to the top when the button is clicked
+        scrollToTopBtn.onclick = function () {
+            window.scrollTo({ top: 0, behavior: "smooth" });
+        };
+    </script>
+    <!-- add to cart -->
+    <div class="container">
+      <header>
+          <div class="title">Accessories Section</div>
+          <div class="icon-cart">
+              <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 18 20">
+                  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 15a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm0 0h8m-8 0-1-4m9 4a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm-9-4h10l2-7H3m2 7L3 4m0 0-.792-3H1"/>
+              </svg>
+              <span>0</span>
+          </div>
+      </header>
+      <div class="listProduct">
+
+      </div>
+  </div>
+  <div class="cartTab">
+      <h1>Shopping Cart</h1>
+      <div class="listCart">
+          
+      </div>
+      <div class="btn">
+          <button class="close">CLOSE</button>
+          <button class="checkOut">Check Out</button>
+      </div>
+  </div>
+   <!-- footer starts -->
+   <footer id="footer">
+    <div class="end">
+       <div class="item1">
+           <h3>CONTACT US</h3>
+           <br>
+           <p>
+               Visit us at:
+               4/6 Fayemi Street off Chemist Busstop Idimu, Lagos
+               <br>
+               <br>
+               Phone: +234 911-163-3099
+               <br>
+               <br>
+               Email: info@humblewears.com
+               <br>
+               <br>
+               We’d love to hear from you! Feel free to reach out for reservations, inquiries, or feedback.
+
+           </p>
+       </div>
+       <div class="item2">
+           <h3>LATEST TWITTER</h3>
+           <br>
+           <p>
+               Stay connected with us! Follow us on Twitter for the latest updates, special offers, and behind-the-scenes moments. Join the conversation: @PATO PLACE
+           </p>
+       </div>
+       <div class="item3">
+           <h3>GALLERY</h3>
+           <br>
+           <p>
+               Explore our beautiful dining ambiance, delicious dishes, and special moments shared by our guests. View our full gallery and get inspired for your next visit!
+           </p>
+       </div>
+    </div>
+    
+       <div class="copywrite">
+           &COPY; 2025 Humble by Humble||TECH!
+       </div>
+   </footer>
+   <!-- footer ends -->
+      </body>
+      <script>
+        const toggle = document.getElementById('menu-toggle');
+        const navLinks = document.getElementById('nav-links');
+    
+        toggle.addEventListener('click', () => {
+          navLinks.classList.toggle('active');
+        });
+      </script>
+      <script src="accesories.js"></script>
+      </html>

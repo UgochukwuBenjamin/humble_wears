@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Body Hug – Black and white",
+    "price": 99.8,
+    "image": "asset/men/black_bodyhug_front-removebg-preview.png"
+  },
+  {
+    "id": 2,
+    "name": " Body Hug – Red",
+    "price": 99.8,
+    "image": "asset/men/red_bodyhug_front-removebg-preview.png"
+  },
+  {
+    "id": 3,
+    "name": "Body Hug – Orange",
+    "price": 99.8,
+    "image": "asset/men/orange_bodyhug_front-removebg-preview.png"
+  },
+  {
+    "id": 4,
+    "name": "Body Hug – White",
+    "price": 99.8,
+    "image": "asset/men/white bodyhug front"
+  },
+  {
+    "id": 5,
+    "name": "Fleece Hoodie Pants – Pink",
+    "price": 99.8,
+    "image": "asset/men/pink shorts.png"
+  },
+  {
+    "id": 6,
+    "name": " Fleece Hoodie Top – Pink",
+    "price": 99.8,
+    "image": "asset/men/pinkhood back.png"
+  },
+  {
+    "id": 7,
+    "name": " Fleece Hoodie Top – Orange",
+    "price": 200,
+    "image": "asset/men/orange hoody back.png"
+  },
+  {
+    "id": 8,
+    "name": " Fleece Hoodie Top and pants– brown",
+    "price": 200,
+    "image": "asset/men/brown"
+  }
+]

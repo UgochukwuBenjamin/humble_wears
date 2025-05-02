@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": " Black Stretchy Gown",
+    "price": 99.8,
+    "image": "asset/women/cloth black front.png"
+  },
+  {
+    "id": 2,
+    "name": " Orange Stretchy Gown",
+    "price": 99.8,
+    "image": "asset/women/or.png"
+  },
+  {
+    "id": 3,
+    "name": "Green Stretchy Gown",
+    "price": 99.8,
+    "image": "asset/women/green front.png"
+  },
+  {
+    "id": 4,
+    "name": "LASGIDI FEMALE JERSEY – RED",
+    "price": 99.8,
+    "image": "asset/women/red crop top back.jpg"
+  },
+  {
+    "id": 5,
+    "name": " LASGIDI FEMALE JERSEY – ORANGE",
+    "price": 99.8,
+    "image": "asset/women/2.png"
+  },
+  {
+    "id": 6,
+    "name": "  Skirt Green",
+    "price": 99.8,
+    "image": "asset/women/3.png"
+  },
+  {
+    "id": 7,
+    "name": " Jean Female Jacket Pink",
+    "price": 200,
+    "image": "asset/women/pink jacket front"
+  },
+  {
+    "id": 8,
+    "name": "  Ripped Bumshort Green",
+    "price": 200,
+    "image": "asset/women/black crazy shorts.png"
+  }
+]

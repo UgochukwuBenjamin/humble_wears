@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Black Stretchy head wormer",
+    "price": 99.8,
+    "image": "asset/asseccorise/1__1_-removebg-preview.png"
+  },
+  {
+    "id": 2,
+    "name": "  G-shock allround light watch",
+    "price": 99.8,
+    "image": "asset/asseccorise/1__2_-removebg-preview.png"
+  },
+  {
+    "id": 3,
+    "name": "24 karat Gold engagement ring",
+    "price": 99.8,
+    "image": "asset/asseccorise/1__3_-removebg-preview.png"
+  },
+  {
+    "id": 4,
+    "name": "silver, Diamond ring",
+    "price": 99.8,
+    "image": "asset/asseccorise/1__4_-removebg-preview.png"
+  },
+  {
+    "id": 5,
+    "name": " Black Lether balt",
+    "price": 99.8,
+    "image": "asset/asseccorise/1__5_-removebg-preview.png"
+  },
+  {
+    "id": 6,
+    "name": " Black Skull head",
+    "price": 99.8,
+    "image": "asset/asseccorise/1__6_-removebg-preview.png"
+  },
+  {
+    "id": 7,
+    "name": "Black Stretchy head wormer",
+    "price": 200,
+    "image": "asset/asseccorise/1-removebg-preview.png"
+  },
+  {
+    "id": 8,
+    "name": "Half Cap",
+    "price": 200,
+    "image": "asset/asseccorise/2-removebg-preview.png"
+  }
+]
