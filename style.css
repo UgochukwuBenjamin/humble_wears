@@ -181,18 +181,22 @@ body.showCart .container {
   width: 0;
 }
 @media only screen and (max-width: 992px) {
+  .listCart .quantity span:nth-child(2) {
+    background-color: transparent;
+    color: black;
+    cursor: auto;
+  }
   .cartTab {
     width: 400px;
     background-color: #353432;
-    color: #eee;
+    color: black;
     position: fixed;
-    top: 0;
+    top: 1;
     right: -400px;
     bottom: 0;
     display: grid;
     grid-template-rows: 70px 1fr 70px;
     transition: 0.5s;
-    font-size: 20px;
   }
   .listProduct .item button {
     background-color: #1e1e1e;
@@ -995,7 +999,7 @@ li {
 .content .left-side .details .text-one,
 .content .left-side .details .text-two {
   font-size: 14px;
-  color: #afafb6;
+  color: black;
 }
 .container .content .right-side {
   width: 75%;
@@ -1029,7 +1033,7 @@ li {
   margin-top: 6px;
   display: inline-block;
 }
-.right-side .button input[type="button"] {
+.right-side .button input[type="submit"] {
   color: #fff;
   font-size: 18px;
   outline: none;
@@ -1040,7 +1044,7 @@ li {
   cursor: pointer;
   transition: all 0.3s ease;
   &:hover {
-    background: #5029bc;
+    background-color: gold;
   }
 }
 /* contact page ends */
@@ -1448,14 +1452,73 @@ li {
   }
   /* contact page end */
   /* footer */
+  #footer {
+    height: 800px;
+    background-color: rgb(34, 34, 34);
+    padding: 30px 40px 0px 40px;
+    margin-top: 6rem;
+  }
   .end {
-    height: 60vh;
+    height: 10000000px;
     width: 100%;
     background-color: rgb(34, 34, 34);
     padding: 60px 40px;
-    display: block;
+    display: flex;
+    flex-direction: column;
     justify-content: space-between;
     gap: 2rem;
+  }
+  .copywrite {
+    font-family: "Shafarik", serif;
+    font-weight: lighter;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    margin-top: 600px;
+    background-color: rgb(34, 34, 34);
+  }
+
+  .item1 {
+    width: 190px;
+    font-size: 28px;
+    background-color: rgb(34, 34, 34);
+  }
+
+  .item2 {
+    width: 390px;
+    font-size: 14px;
+    background-color: rgb(34, 34, 34);
+  }
+
+  .item3 {
+    width: 390px;
+    font-size: 14px;
+    background-color: rgb(34, 34, 34);
+  }
+  .item1 h3 {
+    font-size: large;
+    color: white;
+    font-family: "Shafarik", serif;
+    background-color: rgb(34, 34, 34);
+  }
+  .item1 p {
+    font-size: 26px;
+    color: white;
+    font-family: "Shafarik", serif;
+    background-color: rgb(34, 34, 34);
+  }
+  .item2 p {
+    font-size: 26px;
+    color: white;
+    font-family: "Shafarik", serif;
+    background-color: rgb(34, 34, 34);
+  }
+
+  .item3 p {
+    font-size: 26px;
+    color: white;
+    font-family: "Shafarik", serif;
+    background-color: rgb(34, 34, 34);
   }
   /* footer ends */
 }
@@ -1465,6 +1528,8 @@ li {
   background-color: rgb(34, 34, 34);
   padding: 30px 40px 0px 40px;
   margin-top: 6rem;
+  width: 100%;
+  height: 800px;
 }
 
 .end {
